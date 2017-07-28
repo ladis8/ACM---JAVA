@@ -2,7 +2,7 @@ package ZS_JUDGES.NOT_SOLVED;
 
 import java.util.Scanner;
 
-public class dice {
+public class SPOJ_AE2A_Dice {
 
     private static int [] dice = {1,2,3,4,5,6};
     private static int [][] estimationarray;
